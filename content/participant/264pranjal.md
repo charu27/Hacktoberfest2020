@@ -1,6 +1,5 @@
 ---
-name: PRANJAL AGRAWAL
-institution: INDIAN INSTITUTE OF INFORMATION TECHNOLOGY,UNA
-github:264pranjal
-
+name: Pranjal Agrawal
+institution: IIIT UNA
+github: 264pranjal
 ---
